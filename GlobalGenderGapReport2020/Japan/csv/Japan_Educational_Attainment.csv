@@ -1,0 +1,6 @@
+name,rank,score,avg,female,male,f/m
+Educational attainment,91,0.983,0.954,,,
+"Literacy rate, %",1,1,0.899,99,99,1
+"Enrolment in primary education, %",1,1,0.757,–,–,-
+"Enrolment in secondary education, %",128,0.953,0.954,48.8,51.2,0.95
+"Enrolment in tertiary education, %",108,0.952,0.931,–,–,-

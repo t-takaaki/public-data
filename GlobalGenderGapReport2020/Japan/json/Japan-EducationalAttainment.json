@@ -1,0 +1,9 @@
+[
+{"name":"Educational attainment","rank":"91","score":"0.983","avg":"0.954","female":"","male":"","f/m":""},
+{"name":"Literacy rate, %","rank":"1","score":"1","avg":"0.899","female":"99","male":"99","f/m":"1"},
+{"name":"Enrolment in primary education, %","rank":"1","score":"1","avg":"0.757","female":"–","male":"–","f/m":"-"}
+,
+{"name":"Enrolment in secondary education, %","rank":"128","score":"0.953","avg":"0.954","female":"48.8","male":"51.2","f/m":"0.95"},
+{"name":"Enrolment in tertiary education, %","rank":"108","score":"0.952","avg":"0.931","female":"–","male":"–","f/m":"-"}
+
+]
